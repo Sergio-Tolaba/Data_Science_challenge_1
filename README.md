@@ -29,3 +29,6 @@ También puedes descargar el archivo ds_challenge_1.ipynb y ejecutarlo localment
 Instala las librerías necesarias si estás trabajando localmente: pandas, matplotlib
 
 Ejecuta las celdas en orden para reproducir el análisis y generar los gráficos.
+
+## Informe final: Relatorio – Justificación de venta de la Tienda 4
+* Se encuentra al final en el archivo ds_challenge_1.ipynb
